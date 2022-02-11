@@ -1,2 +1,4 @@
 # website
-Lets make change sin the example branch
+Lets make change in the example branch
+
+This is the update-branch that needs to be fixed
