@@ -1,2 +1,2 @@
-# my-website
+# website
 Changing some stuff on here!
